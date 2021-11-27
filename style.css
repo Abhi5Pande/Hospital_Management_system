@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+.heading_area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-form,.patient_dets
+{
+    background-color: lightgray;
+margin-top: 5%;
+    
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+   
+}
+.row{
+    align-items: center;
+}
+.sbmt-btn{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
